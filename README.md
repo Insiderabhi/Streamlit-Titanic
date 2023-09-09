@@ -36,11 +36,10 @@ Before you begin, ensure you have the following prerequisites installed:
    git clone https://github.com/Insiderabhi/Streamlit_Project.git
 
 
-Usage
+### Usage
 Run the Streamlit app:
-
-bash
-Copy code
+Navigate to the project directory:
+### Run Code :
 streamlit run app.py
 Open your web browser and go to the URL displayed in the terminal (typically http://localhost:8501).
 
